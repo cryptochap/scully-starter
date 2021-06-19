@@ -1,7 +1,7 @@
 ---
 title: First post
 description: blog description
-publish: false
+publish: true
 ---
 
 # This is the point where I leave the 
